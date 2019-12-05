@@ -26,7 +26,7 @@
       <div class ="txtb">
         <label> Full Name:</label>
         <input type="text" name="" value= "" placeholder= "Enter your Name">
-      </div>
+     </div>
        <div class ="txtb">
         <label> Enter your date:</label>
         <input type="text" name="" value= "" placeholder= "mm/dd/yyyy">
